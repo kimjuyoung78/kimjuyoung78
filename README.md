@@ -90,7 +90,7 @@
 <td width="43%" valign="top">
     
 ### &nbsp;❀
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kimjuyoung99&count_private=true&hide=issues,stars&theme=graywhite" alt="Anurag's GitHub stats">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kimjuyoung78&count_private=true&hide=issues,stars&theme=graywhite" alt="Anurag's GitHub stats">
 
 </td>
 </tr>
@@ -138,10 +138,10 @@
 ##
 <div align="left">
  </br>
- ![kimjuyoung99's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite)
+ ![kimjuyoung78's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung78&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung99&count_private=true&hide=issues,stars&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuyoung78&count_private=true&hide=issues,stars&theme=graywhite)
 
  애매한 스택들
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
