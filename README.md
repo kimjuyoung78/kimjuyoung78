@@ -7,7 +7,7 @@
 
 ✿ 세종대학교 컴퓨터공학과
 <ul>
-        <li>(2024.07~) Programmers Dev-Course Front-end Engineering</li>
+        <li>(2024.07-2024.12) Programmers Dev-Course Front-end Engineering</li>
         <li>(2023.06-2024.06) 세종창의학기제</li>
         <li>(2023.03-2024.01) <a href="https://www.instagram.com/likelion_sejong/?hl=ko">멋쟁이사자처럼 at 세종대</a> Front-end track</li>
         <li>(2022.09-2023.03) 연합동아리 <a href="https://www.cotato.kr/">COTATO</a> 4, 5기</li>
@@ -49,21 +49,23 @@
 
 
 </br>
-
+<br>
 
 <!--
 **⚂ Interested**</br>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 -->
-### ⚃ learned it from a college lecture
+<details>
+<summary> ⚃ learned it from a college lecture </br></summary>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </br>
 
-
+</details>
 </br>
 
 <!--
