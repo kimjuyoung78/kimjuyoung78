@@ -85,7 +85,7 @@
 - &nbsp;&nbsp;[발바닥구조대](https://paw-rescuers.netlify.app) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[유기동물 매칭, 정보제공 서비스](https://github.com/kimjuyoung99/pawsome-rescuers) (데브코스)
 - &nbsp;&nbsp;PicnicFlick &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[스마트 무인 돗자리 대여 서비스](https://github.com/Ficnicflick/Frontend-server) (세종창의학기제)
 - &nbsp;&nbsp;[SEJONGPEER](https://sejongpeer.co.kr/) &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[세종대학생 전용 네트워킹 서비스](https://www.notion.so/sejongpeer/c6c8de99d0f84ad1af6e19eb4a37423c) (멋쟁이사자처럼)
-- &nbsp;&nbsp;COMO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[팀원 찾기 및 재능공유 사이트](https://github.com/TeamCOMO/frontend) (세종창의학기제)
+<!-- - &nbsp;&nbsp;COMO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[팀원 찾기 및 재능공유 사이트](https://github.com/TeamCOMO/frontend) (세종창의학기제) -->
 
 </td>
 <td width="43%" valign="top">
