@@ -5,6 +5,7 @@
 
  <div>
 
+<!--
 ✿ 세종대학교 컴퓨터공학과
 <ul>
         <li>(2024.07-2024.12) Programmers Dev-Course Front-end Engineering</li>
@@ -17,6 +18,7 @@
 
 <!-- ### 🛠️ -->
 
+<!--
 ### ⚀ Language  
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -56,6 +58,7 @@
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 -->
+<!--
 <details>
 <summary> ⚃ learned it from a college lecture </br></summary>
 
@@ -74,7 +77,7 @@
 -->
 
 
-
+<!--
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="57%" valign="top">
@@ -87,6 +90,7 @@
 - &nbsp;&nbsp;[SEJONGPEER](https://sejongpeer.co.kr/) &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[세종대학생 전용 네트워킹 서비스](https://www.notion.so/sejongpeer/c6c8de99d0f84ad1af6e19eb4a37423c) (멋쟁이사자처럼)
 <!-- - &nbsp;&nbsp;COMO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[팀원 찾기 및 재능공유 사이트](https://github.com/TeamCOMO/frontend) (세종창의학기제) -->
 
+<!--
 </td>
 <td width="43%" valign="top">
     
