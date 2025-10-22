@@ -5,20 +5,20 @@
 
  <div>
 
-<!--
+
 ✿ 세종대학교 컴퓨터공학과
 <ul>
+            <li><strong>(2025.05~현재) CNTTECH SW개발 직무 재직 중</strong></li>
         <li>(2024.07-2024.12) Programmers Dev-Course Front-end Engineering</li>
         <li>(2023.06-2024.06) 세종창의학기제</li>
         <li>(2023.03-2024.01) <a href="https://www.instagram.com/likelion_sejong/?hl=ko">멋쟁이사자처럼 at 세종대</a> Front-end track</li>
         <li>(2022.09-2023.03) 연합동아리 <a href="https://www.cotato.kr/">COTATO</a> 4, 5기</li>
-    </ul>
+</ul>
 </div>
 
-
-<!-- ### 🛠️ -->
-
 <!--
+### 🛠️
+
 ### ⚀ Language  
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -53,12 +53,12 @@
 </br>
 <br>
 
-<!--
+
 **⚂ Interested**</br>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
--->
-<!--
+
+
 <details>
 <summary> ⚃ learned it from a college lecture </br></summary>
 
@@ -71,13 +71,13 @@
 </details>
 </br>
 
-<!--
+
 **⚃ More?** </br>
   <a href="https://www.instagram.com/gl0ryto_l?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
+
 -->
 
 
-<!--
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="57%" valign="top">
@@ -87,10 +87,10 @@
 - &nbsp;&nbsp;DDang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[(Web)반려견 산책, 매칭, 관리 서비스](https://github.com/prgrms-web-devcourse-final-project/WEB1_1_DDang_FE) (데브코스)
 - &nbsp;&nbsp;[발바닥구조대](https://paw-rescuers.netlify.app) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[유기동물 매칭, 정보제공 서비스](https://github.com/kimjuyoung99/pawsome-rescuers) (데브코스)
 - &nbsp;&nbsp;PicnicFlick &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[스마트 무인 돗자리 대여 서비스](https://github.com/Ficnicflick/Frontend-server) (세종창의학기제)
-- &nbsp;&nbsp;[SEJONGPEER](https://sejongpeer.co.kr/) &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[세종대학생 전용 네트워킹 서비스](https://www.notion.so/sejongpeer/c6c8de99d0f84ad1af6e19eb4a37423c) (멋쟁이사자처럼)
+- &nbsp;&nbsp;[SEJONGPEER] &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[세종대학생 전용 네트워킹 서비스](https://www.notion.so/sejongpeer/c6c8de99d0f84ad1af6e19eb4a37423c) (멋쟁이사자처럼)
 <!-- - &nbsp;&nbsp;COMO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;[팀원 찾기 및 재능공유 사이트](https://github.com/TeamCOMO/frontend) (세종창의학기제) -->
 
-<!--
+
 </td>
 <td width="43%" valign="top">
     
